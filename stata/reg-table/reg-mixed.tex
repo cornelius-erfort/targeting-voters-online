@@ -1,0 +1,31 @@
+\documentclass[]{article}
+\setlength{\pdfpagewidth}{8.5in} \setlength{\pdfpageheight}{11in}
+\begin{document}
+\begin{tabular}{lcccccccc} \hline
+ & (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8) \\
+ & reg1 &  &  &  & reg2 &  &  &  \\
+VARIABLES & target\_spend & lns1\_1\_1 & lns2\_1\_1 & lnsig\_e & target\_spend & lns1\_1\_1 & lns2\_1\_1 & lnsig\_e \\ \hline
+ &  &  &  &  &  &  &  &  \\
+vote\_diff & 1.243*** &  &  &  & 0.0567 &  &  &  \\
+ & (0.233) &  &  &  & (0.137) &  &  &  \\
+niche = 1 &  &  &  &  & 0.924 &  &  &  \\
+ &  &  &  &  & (3.259) &  &  &  \\
+0b.niche\#co.vote\_diff &  &  &  &  & 0 &  &  &  \\
+ &  &  &  &  & (0) &  &  &  \\
+1.niche\#c.vote\_diff &  &  &  &  & 1.143*** &  &  &  \\
+ &  &  &  &  & (0.286) &  &  &  \\
+population & 0.782*** &  &  &  & 0.786*** &  &  &  \\
+ & (0.0334) &  &  &  & (0.0334) &  &  &  \\
+vote\_party & -0.0409 &  &  &  &  &  &  &  \\
+ & (0.242) &  &  &  &  &  &  &  \\
+c.vote\_diff\#c.vote\_party & -0.0801*** &  &  &  &  &  &  &  \\
+ & (0.0173) &  &  &  &  &  &  &  \\
+Constant & 36.66*** & 2.212*** & -13.25*** & 4.641*** & 35.66*** & 2.219*** & -13.25*** & 4.641*** \\
+ & (4.100) & (0.229) & (1.618) & (0.0100) & (3.877) & (0.230) & (1.593) & (0.0100) \\
+ &  &  &  &  &  &  &  &  \\
+Observations & 5,018 & 5,018 & 5,018 & 5,018 & 5,018 & 5,018 & 5,018 & 5,018 \\
+ Number of groups & 28 & 28 & 28 & 28 & 28 & 28 & 28 & 28 \\ \hline
+\multicolumn{9}{c}{ Standard errors in parentheses} \\
+\multicolumn{9}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\end{tabular}
+\end{document}

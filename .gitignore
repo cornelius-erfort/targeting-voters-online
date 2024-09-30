@@ -1,0 +1,7 @@
+
+*.history
+scripts/.Rhistory
+scripts/.DS_Store
+tables/.DS_Store
+scripts/stata/.DS_Store
+.DS_Store

@@ -1,0 +1,43 @@
+\documentclass[]{article}
+\setlength{\pdfpagewidth}{8.5in} \setlength{\pdfpageheight}{11in}
+\begin{document}
+\begin{tabular}{lcc} \hline
+ & (1) & (2) \\
+ & reg1 & reg2 \\
+VARIABLES & target\_spend & target\_spend \\ \hline
+ &  &  \\
+vote\_diff & 1.967*** & 0.488 \\
+ & (0.484) & (0.254) \\
+niche = 1 &  & 5.608 \\
+ &  & (7.966) \\
+0b.niche\#co.vote\_diff &  & 0 \\
+ &  & (0) \\
+1.niche\#c.vote\_diff &  & 1.449* \\
+ &  & (0.667) \\
+population & 1.102*** & 1.105*** \\
+ & (0.151) & (0.151) \\
+gender = 2, male & 13.73** & 13.78*** \\
+ & (4.103) & (4.036) \\
+age = 2, 25-34 & -17.88** & -17.67** \\
+ & (5.356) & (5.348) \\
+age = 3, 35-44 & -56.58*** & -56.34*** \\
+ & (7.817) & (7.766) \\
+age = 4, 45-54 & -66.92*** & -66.74*** \\
+ & (7.944) & (7.923) \\
+age = 5, 55-64 & -73.67*** & -73.54*** \\
+ & (8.054) & (8.022) \\
+age = 6, 65+ & -142.4*** & -142.2*** \\
+ & (11.42) & (11.46) \\
+vote\_party & -0.0527 &  \\
+ & (0.378) &  \\
+c.vote\_diff\#c.vote\_party & -0.0971*** &  \\
+ & (0.0275) &  \\
+Constant & 67.11*** & 64.63*** \\
+ & (11.58) & (11.87) \\
+ &  &  \\
+Observations & 5,018 & 5,018 \\
+ R-squared & 0.245 & 0.244 \\ \hline
+\multicolumn{3}{c}{ Robust standard errors in parentheses} \\
+\multicolumn{3}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\end{tabular}
+\end{document}

@@ -1,0 +1,969 @@
+*QUESTION 1000000
+1: Luxembourg
+
+*QUESTION 1001
+1: Centre
+2: Sud
+3: Nord
+4: Est
+
+
+*QUESTION 1003
+1: 18-24 ans
+2: 25-39 ans
+3: 40-54 ans
+4: 55-64 ans
+5: 65+
+
+*QUESTION 1004
+1: Homme
+2: Femme
+
+*QUESTION 1005
+Niveau d'études
+
+1: Ecole primaire
+2: Secondaire 1er cycle (jusqu’à 11ème , CAP/CATP, collège, 3-4 années lycée/athenée, ..)
+3: Secondaire 2ème cycle (Bac classique ou technique, brevet de maîtrise, technicien,..)
+4: Ens. supérieur Bac + 2 à 3 (BTS, DUT, DEUG, graduat, 1ère licence, Bachelor,..)
+5: Ens. supérieur Bac + 4  (maîtrise, 2ème licence, ..)
+6: Ens. supérieur Bac + 5 ou plus (Masters, Postgraduate, DESS, DEA, doctorat, ..)
+8: Autre
+
+
+*QUESTION 10
+*FONT 2LANGUE DU QUESTIONNAIRE - SPROOCH VUM FROEBOU - SPRACHE DER UMFRAGE*FONT 0
+
+1: Français
+2: Lëtzebuergesch
+3: Deutsch
+
+*QUESTION 11
+TNS Ilres et Gallup International, ainsi qu'un consortium d'universités européennes, réalisent une étude sur les questions politiques actuelles. Cette étude peut inclure quelques questions trop personnelles pour vous et auxquelles vous ne voulez pas répondre. Nous voulons vous assurer que votre participation à l'étude est totalement volontaire et que vos réponses sont strictement confidentielles. Les données sont analysées anonymement afin d'obtenir des données statistiques pour votre pays. Nous apprécierions grandement votre coopération. Les réponses prendront environ 15 minutes.
+
+Avons-nous votre permission pour continuer l'entretien?
+
+1: Je suis d’accord
+2: Je ne suis pas d’accord
+
+*QUESTION 420
+D3 Etes-vous un(e)… 
+
+1: Homme
+2: Femme
+3: Autre
+
+*QUESTION 430
+D4 En quelle année êtes-vous né(e) ? 
+
+*QUESTION 431
+1: 18-24
+2: 25-39
+3: 40-54
+4: 55-64
+5: 65+
+
+*QUESTION 432
+1:  Male 18-24
+2:  Male 25-39
+3:  Male 40-54
+4:  Male 55-64
+5:  Male 65+
+6:  Female 18-24
+7:  Female 25-39
+8:  Female 40-54
+9:  Female 55-64
+10: Female 65+
+11: Autre 18-24
+12: Autre 25-39
+13: Autre 40-54
+14: Autre 55-64
+15: Autre 65+ 
+
+*QUESTION 440
+D4a Dans quel pays êtes-vous né (e) ?
+
+1: Le Luxembourg
+96: Autre 
+
+*QUESTION 450
+D4b Quand êtes-vous venu en Luxembourg pour la première fois ?
+
+*QUESTION 451
+D12 Veuillez indiquer dans quelle région vous habitez:
+1801: Centre
+1802: Sud
+1803: Nord
+1804: Est
+
+*QUESTION 410
+D2 A quel âge avez-vous arrêté vos études à temps complet ?
+
+*QUESTION 500
+D8 Diriez-vous que vous vivez … ?
+
+1: A la campagne ou dans un village
+2: Dans une ville petite ou moyenne
+3: Dans une grande ville
+
+*QUESTION 20
+Q1 Quel est, selon vous, le problème le plus important que le Luxembourg doit affronter aujourd’hui ?
+
+*QUESTION 30
+Q2 A votre avis, quel parti parvient le mieux à gérer ce problème ?
+
+1801: Parti populaire chrétien social
+1802: Parti Ouvrier Socialiste Luxembourgeois
+1803: Parti Démocratique
+1804: Les Vert
+1805: La Gauche
+1806: Parti réformiste d'alternative démocratique
+1807: Parti pirate du Luxembourg
+10: Autre 
+11: Aucun 
+98: Je ne sais pas 
+
+*QUESTION 40
+Q3 Dans l’ensemble, êtes-vous satisfait ou non du fonctionnement de la démocratie en Luxembourg? Êtes-vous:  
+
+01: très satisfait
+02: assez satisfait
+03: pas très satisfait ou
+04: pas satisfait du tout
+98: Je ne sais pas
+
+*QUESTION 50
+Q4 Dans l’ensemble, êtes-vous satisfait ou non du fonctionnement de la démocratie dans l’Union européenne ? 
+
+01: très satisfait
+02: assez satisfait
+03: pas très satisfait ou
+04: pas satisfait du tout
+98: Je ne sais pas
+
+*QUESTION 60
+Q5 Revenons maintenant à le Luxembourg. Approuvez-vous ou désapprouvez-vous le bilan du gouvernement luxembourgeois à ce jour ?
+
+01: approuve
+02: désapprouve
+98: Je ne sais pas
+
+*QUESTION 70
+Q6 Les élections européennes ont eu lieu le 26 mai dernier. Pour différentes raisons, certaines personnes en Luxembourg n'ont pas voté à ces élections. Avez-vous voté lors de ces élections ?
+
+01: A voté
+02: N’a pas voté
+98: Je ne sais pas
+
+
+*QUESTION 80
+Q7 Pour quel parti avez-vous voté lors de ces élections européennes du 26 mai ?
+
+1801: Parti populaire chrétien social
+1802: LSAP / Parti Ouvrier Socialiste Luxembourgeois (POSL)
+1803: DP / Parti Démocratique (PD)
+1804: Les Vert
+1805: La Gauche
+1806: ADR/PADR
+1807: Parti pirate du Luxembourg (PPL)
+1808: DK /Les Conservateurs
+1809: VOLT
+90: Autre 
+96: Vote blanc ou nul 
+98: Ne me rappelle pas 
+
+
+*QUESTION 90
+Q8 De quelle manière avez-vous suivi les élections parlementaires européennes dans les médias et les réseaux sociaux ?
+Veuillez indiquer un chiffre sur une échelle qui va de 0 à 10. Sur cette échelle où 0 indique « pas du tout » et 10 indique « de très près », quel chiffre décrit le mieux votre situation ? 
+
+00: 0 Pas du tout
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 De très près 
+98: Ne sais pas
+
+*QUESTION 100
+Q9 A quel parti avez-vous donné le plus de voix aux élections législatives en 2018?
+
+1801: Parti populaire chrétien social
+1802: Parti Ouvrier Socialiste Luxembourgeois
+1803: Parti Démocratique
+1804: Les Vert
+1805: Parti pirate du Luxembourg
+1806: Parti réformiste d'alternative démocratique
+1807: La Gauche
+1808: Parti communiste luxembourgeois
+1809: DK / Les Conservateurs
+1810: Democracie 
+90: Autre
+96: Vote blanc ou nul
+97: N'a pas voté
+98: Ne me rappelle pas
+
+
+*QUESTION 110
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 111
+1: Q10a En Luxembourg, nous avons un certain nombre de partis politiques et chacun voudrait obtenir votre vote. Quelle est la probabilité que vous votiez un jour pour les partis suivants ? Veuillez répondre sur une échelle de 0 à 10, '0' voulant dire "pas du tout probable" et '10' voulant dire "très probable".
+*? MATRIX_TEXT_Q110
+*QUESTION 109
+00: 0 = pas du tout probable
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Très probable 
+98: Ne connaît pas le parti
+
+*QUESTION 120
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate  du Luxembourg
+*QUESTION 121
+1: Q10b En Luxembourg, nous avons un certain nombre de partis politiques et chacun voudrait obtenir votre vote. Quelle est la probabilité que vous votiez un jour pour les partis suivants ? Veuillez répondre sur une échelle de 0 à 10, '0' voulant dire "pas du tout probable" et '10' voulant dire "très probable".
+*? MATRIX_TEXT_Q120
+*QUESTION 119
+00: 0 = pas du tout probable
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Très probable 
+98: Ne connaît pas le parti
+
+*QUESTION 1201
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate  du Luxembourg
+*QUESTION 1211
+1: Q10b En Luxembourg, nous avons un certain nombre de partis politiques et chacun voudrait obtenir votre vote. Quelle est la probabilité que vous votiez un jour pour les partis suivants ? Veuillez répondre sur une échelle de 0 à 10, '0' voulant dire "pas du tout probable" et '10' voulant dire "très probable".
+*? MATRIX_TEXT_Q1201
+*QUESTION 1191
+00: 0 = pas du tout probable
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Très probable 
+98: Ne connaît pas le parti
+
+*QUESTION 1101
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 1111
+1: Q10a En Luxembourg, nous avons un certain nombre de partis politiques et chacun voudrait obtenir votre vote. Quelle est la probabilité que vous votiez un jour pour les partis suivants ? Veuillez répondre sur une échelle de 0 à 10, '0' voulant dire "pas du tout probable" et '10' voulant dire "très probable".
+*? MATRIX_TEXT_Q1101
+*QUESTION 1091
+00: 0 = pas du tout probable
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Très probable 
+98: Ne connaît pas le parti
+
+*QUESTION 13001
+1: 
+
+*? matrix_title
+*QUESTION 130
+00:Gauche
+01:1
+02:2
+03:3
+04:4
+05:5
+06:6
+07:7
+08:8
+09:9
+10:Droite
+98:Je ne sais pas
+
+
+*QUESTION 140
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 141
+1: Q13a Et où placeriez-vous les partis politiques suivants sur cette échelle ? Quel chiffre, de 0 à 10 décrit le mieux chacun d’entre eux, 0 signifiant "gauche" et '10' signifiant "droite" ?
+*? MATRIX_TEXT_Q140
+*QUESTION 139
+00: 0 = Gauche
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Droite 
+99: Ne sais pas où placer ce parti 
+
+*QUESTION 150
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate du Luxembourg
+*QUESTION 151
+1: Q13b Et où placeriez-vous les partis politiques suivants sur cette échelle ? Quel chiffre, de 0 à 10 décrit le mieux chacun d’entre eux, 0 signifiant "gauche" et '10' signifiant "droite" ?
+*? MATRIX_TEXT_Q150
+*QUESTION 149
+00: 0 = Gauche
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Droite 
+99: Ne sais pas où placer ce parti 
+
+*QUESTION 1501
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate du Luxembourg
+*QUESTION 1511
+1: Q13b Et où placeriez-vous les partis politiques suivants sur cette échelle ? Quel chiffre, de 0 à 10 décrit le mieux chacun d’entre eux, 0 signifiant "gauche" et '10' signifiant "droite" ?
+*? MATRIX_TEXT_Q1501
+*QUESTION 1491
+00: 0 = Gauche
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Droite 
+99: Ne sais pas où placer ce parti 
+
+*QUESTION 1401
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 1411
+1: Q13a Et où placeriez-vous les partis politiques suivants sur cette échelle ? Quel chiffre, de 0 à 10 décrit le mieux chacun d’entre eux, 0 signifiant "gauche" et '10' signifiant "droite" ?
+*? MATRIX_TEXT_Q1401
+*QUESTION 1391
+00: 0 = Gauche
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = Droite 
+99: Ne sais pas où placer ce parti 
+
+*QUESTION 160
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.1 Régulations étatiques et contrôle du marché*FONT 0
+
+00: 0 Vous êtes totalement favorable à l'intervention de l'Etat dans l'économie
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Vous êtes totalement opposé à l'intervention de l'Etat dans l'économie 
+98: Je ne sais pas
+
+*QUESTION 170
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.2 Redistribution des richesses*FONT 0
+
+00: 0 Vous êtes totalement favorable à la redistribution des richesses des riches au profit des pauvres en Luxembourg
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Vous êtes totalement opposé à la redistribution des richesses des riches au profit des pauvres en Luxembourg 
+98: Je ne sais pas
+
+*QUESTION 180
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.3 Mariage homosexuel*FONT 0
+
+00: 0 Vous êtes totalement favorable au mariage entre personnes de même sexe
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Vous êtes totalement opposé au mariage entre personnes du même sexe 
+98: Je ne sais pas
+
+*QUESTION 190
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.4 Libertés civiles*FONT 0
+
+00: 0 Vous êtes totalement favorable au droit à la vie privée même si cela entrave la lutte contre la criminalité
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Vous êtes totalement favorable à la restriction du droit à la vie privée afin de lutter contre la criminalité 
+98: Je ne sais pas
+
+*QUESTION 200
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.5 Immigration*FONT 0
+
+00: 0 Vous êtes totalement favorable à une politique drastique de contrôle de l'immigration
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Vous êtes totalement opposé à une politique drastique de contrôle de l'immigration 
+98: Je ne sais pas
+
+*QUESTION 210
+Q14 Nous aimerions maintenant connaître votre opinion sur différentes questions. Dans chaque cas, deux affirmations sont opposées et vous devrez donner votre opinion sur ces affirmations. Pourriez-vous vous positionner sur une échelle allant de 0 à 10, où '0' signifie que vous êtes "tout à fait d'accord avec l'affirmation du haut" et '10' signifie que vous êtes "tout à fait d'accord avec l'affirmation du bas". Si votre position est entre les deux, choisissez un chiffre qui reflète le mieux votre opinion.
+
+*FONT 2Q14.6 Environnement*FONT 0
+
+00: 0 La protection de l'environnement devrait toujours être prioritaire, même aux dépens de la croissance économique
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 La croissance économique devrait toujours être prioritaire, même aux dépens de la protection de l'environnement 
+98: Je ne sais pas
+
+*QUESTION 220
+Q15 Imaginez qu’un referendum ait lieu dimanche prochain en Luxembourg sur l’appartenance à l’Union européenne.  Voteriez-vous pour que le Luxembourg reste un membre de l’Union européenne ou pour qu’elle quitte l’Union européenne ?
+
+01: Que le Luxembourg reste un membre de l’Union européenne
+02: Que le Luxembourg quitte l’Union européenne
+03: Voterait blanc
+04: Voterait nul
+05: Ne voterait pas
+06: N’a pas le droit de vote
+98: Je ne sais pas
+
+*QUESTION 230
+Q16 Dans quelle mesure est-il important pour vous de vivre dans un pays gouverné démocratiquement ? Choisissez votre réponse sur cette carte, où 0 signifie pas du tout important et 10 signifie extrêmement important. 
+
+00: 0 Pas du tout important
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 Extrêmement important 
+98: Je ne sais pas
+
+*QUESTION 240
+
+
+1: Des juges indépendants devraient pouvoir annuler les décisions d’un gouvernement élu démocratiquement si ces décisions violaient les droits d’individus ou de groupes au sein de la société. 
+2: Les gouvernements devraient pouvoir interdire une manifestation pacifique si les slogans utilisés heurtaient de nombreuses personnes.
+3: Afin de sécuriser l’indépendance des médias, les élus ne devraient pas avoir d’influence sur le contenu de leur diffusion.
+4: Avoir un dirigeant fort au gouvernement est bon pour le Luxembourg même si ce dirigeant ne respecte pas toutes les règles en place. 
+5: C’est le peuple, et non les politiciens, qui devrait prendre les décisions politiques les plus importantes. 
+
+*QUESTION 241
+
+1: Q17 Dans quelle mesure êtes-vous en accord ou en désaccord avec les phrases suivantes ?
+ 
+
+*? MATRIX_TEXT_Q240
+*QUESTION 239
+
+
+01: Totalement d’accord
+02: D’accord
+03: Ni d’accord ni pas d’accord
+04: Pas d’accord
+05: Pas du tout d’accord
+98: Ne sais pas
+
+*QUESTION 250
+
+
+1: Vous avez confiance dans la Chambre des Députés
+2: Vous avez confiance dans le Parlement européen
+
+*QUESTION 251
+
+1: Q18 Pour chacune des affirmations suivantes, veuillez me dire dans quelle mesure elle correspond ou non à votre opinion.
+ 
+
+*? MATRIX_TEXT_Q250
+*QUESTION 249
+
+
+01: Oui, tout à fait
+02: Oui, plutôt
+03: Ni oui ni non
+04: Non, plutôt pas
+05: Non, pas du tout
+98: Je ne sais pas
+
+*QUESTION 260
+Q19 Que pensez-vous de l’état de l'économie ? Si vous comparez la situation économique en Luxembourg par rapport à celle d’il y a 12 mois, diriez-vous qu'elle … ?
+
+01: S’est beaucoup améliorée
+02: S’est un peu améliorée
+03: Est restée la même
+04: A un peu empiré
+05: A beaucoup empiré
+98: Je ne sais pas
+
+*QUESTION 270
+Q20 Et dans les 12 prochains mois, pensez-vous que la situation économique en Luxembourg va …
+
+01: Beaucoup s’améliorer
+02: Un peu s’améliorer
+03: Rester inchangée
+04: Un peu empirer
+05: Beaucoup empirer
+98: Je ne sais pas
+
+*QUESTION 280
+Q21 Dans quelle mesure diriez-vous que vous vous intéressez à la politique ? Diriez-vous que vous êtes très intéressé, assez intéressé, peu intéressé ou pas du tout intéressé ?
+
+01: Très intéressé
+02: Assez intéressé
+03: Peu intéressé
+04: Pas du tout intéressé
+98: Je ne sais pas
+
+*QUESTION 290
+Q22 D'une façon générale, pensez-vous que, pour le Luxembourg, le fait de faire partie de l'Union européenne est … ?
+
+01: Une bonne chose
+02: Une mauvaise chose
+03: Une chose ni bonne, ni mauvaise
+98: Je ne sais pas
+
+*QUESTION 300
+Q23 Certains pensent que l’unification européenne doit être poussée plus loin. D’autres pensent que l’on est déjà allé trop loin. Qu’en pensez-vous ? Donnez votre avis sur une échelle de 0 à 10 où '0' signifie que 'l’unification européenne est déjà allée trop loin' et '10' signifie que 'l'unification européenne devrait aller plus loin'.
+
+00: 0 = L'unification européenne est déjà allée trop loin
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = L'unification européenne devrait aller plus loin 
+98: Je ne sais pas
+
+
+*QUESTION 310
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 311
+1: Q24a Et où placeriez-vous les partis suivants sur cette échelle où 0 signifie “l’unification est déjà trop avancée” et 10 signifie “qu’il faut aller encore plus loin dans l’unification européenne”? 
+*? MATRIX_TEXT_Q310
+*QUESTION 309
+00: 0 = L’unification européenne est déja trop avancée
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = L’unification européenne doit aller encore plus loin 
+99: Ne sait pas où situer le parti
+
+*QUESTION 320
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate  du Luxembourg
+*QUESTION 321
+1: Q24b Et où placeriez-vous les partis suivants sur cette échelle où 0 signifie “l’unification est déjà trop avancée” et 10 signifie “qu’il faut aller encore plus loin dans l’unification européenne”? 
+*? MATRIX_TEXT_Q320
+*QUESTION 319
+00: 0 = L’unification européenne est déjà trop avancée
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = L’unification européenne doit aller encore plus loin 
+99: Ne sait pas où situer le parti
+
+*QUESTION 3201
+1: La Gauche
+2: Parti réformiste d'alternative démocratique
+3: Parti Pirate  du Luxembourg
+*QUESTION 3211
+1: Q24b Et où placeriez-vous les partis suivants sur cette échelle où 0 signifie “l’unification est déjà trop avancée” et 10 signifie “qu’il faut aller encore plus loin dans l’unification européenne”? 
+*? MATRIX_TEXT_Q3201
+*QUESTION 3191
+00: 0 = L’unification européenne est déjà trop avancée
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = L’unification européenne doit aller encore plus loin 
+99: Ne sait pas où situer le parti
+
+*QUESTION 3101
+1: Parti populaire chrétien social
+2: Parti Ouvrier Socialiste Luxembourgeois
+3: Parti Démocratique
+4: Les Vert
+*QUESTION 3111
+1: Q24a Et où placeriez-vous les partis suivants sur cette échelle où 0 signifie “l’unification est déjà trop avancée” et 10 signifie “qu’il faut aller encore plus loin dans l’unification européenne”? 
+*? MATRIX_TEXT_Q3101
+*QUESTION 3091
+00: 0 = L’unification européenne est déja trop avancée
+01: 1
+02: 2
+03: 3
+04: 4
+05: 5
+06: 6
+07: 7
+08: 8
+09: 9 
+10: 10 = L’unification européenne doit aller encore plus loin 
+99: Ne sait pas où situer le parti
+
+*QUESTION 330
+Q25 Vous sentez-vous proche d’un parti politique en particulier ? Si oui, de quel parti vous sentez-vous proche ?
+
+1801: Non, vous ne vous sentez pas proche d’un parti politique
+1802: Déi Gréng/Les Verts
+1803: LSAP/Parti Ouvrier Socialiste Luxembourgeoi (POSL)
+1804: DP/PD
+1805: CSV/ Parti populaire chrétien social  (PCS)
+1806: Déi Lénk/La gauche
+1807: ADR/ Parti réformiste d'alternative démocratique (PADR)
+1808: Parti Pirate  du Luxembourg  (PPL)
+90: Autre
+98: Je ne sais pas
+
+*QUESTION 340
+Q26 Vous sentez-vous très proche de ce parti, assez proche, ou vous considérez-vous plus comme seulement un sympathisant ?
+
+01: Très proche
+02: Assez proche
+03: Seulement comme un sympathisant
+98: Je ne sais pas
+
+
+*QUESTION 350
+1: Manfred Weber
+2: Frans Timmermans
+3: Jan Zahradil
+
+*QUESTION 351
+
+1: Q27 Pour chacun des candidats suivants à la présidence de la prochaine Commission européenne, pourriez-vous me dire quel groupe politique européen ou quel parti politique luxembourgeois soutient sa nomination?
+
+*? MATRIX_TEXT_Q350
+*QUESTION 349
+01: Alliance progressiste des socialistes et démocrates au Parlement européen (S&D) / Parti Ouvrier Socialiste Luxembourgeois
+02: Groupe du Parti populaire européen (PPE) / Parti populaire chrétien social
+03: Alliance des démocrates et des libéraux pour l'Europe (ADLE) / Parti Démocratique
+04: Conservateurs et réformistes européens (CRE) / Parti réformiste d'alternative démocratique
+98: Sans réponse
+
+
+*QUESTION 360
+Q28 Les britanniques ont décidé de quitter l’Union Européenne. Quelles seront les conséquences pour le Royaume Uni selon vous, s’il y en a ?
+
+01: Ce sera positif pour le Royaume Uni.
+02: Il n’y aura pas de changement important.
+03: Ce sera négatif pour le Royaume Uni.
+98: Ne sais pas
+
+*QUESTION 370
+Q29 Les britanniques ont décidé de quitter l’Union Européenne. Quelles seront les conséquences pour Luxembourg selon vous, s’il y en a ?
+
+01: Ce sera positif pour Luxembourg.
+02: Il n’y aura pas de changement important.
+03: Ce sera négatif pour Luxembourg.
+98: Ne sais pas
+
+*QUESTION 380
+Q30 Laquelle de ces phrases représente le mieux votre point de vue général sur la sortie du Royaume Uni de l’Union Européenne ?
+
+01: Le Royaume Uni devrait rester membre de l’Union Européenne.
+02: Le Royaume Uni a raison de quitter l’Union Européenne.
+03: Le Royaume Uni n’aurait jamais dû adhérer à l’Union Européenne.
+98: Ne Sais Pas
+
+
+*QUESTION 3901
+1:SPLIT A
+2:SPLIT B
+3:SPLIT C
+
+*QUESTION 390
+Le départ du Royaume Uni de l’UE réduira la croissance au Royaume Uni et pourrait même mener à une récession économique.
+
+Si Luxembourg décidait de quitter l’Union Européenne, quelles en seraient les conséquences pour le Luxembourg selon vous, s’il y en avait ?
+
+01: Ce serait positif pour le Luxembourg.
+02: Il n’y aurait pas de changement important.
+03: Ce serait négatif pour le Luxembourg.
+98: Ne sais pas
+
+*QUESTION 391
+Le départ du Royaume Uni de l’UE voudra dire que le Royaume Uni aura plus de contrôle sur ses propres lois, ce qui inclut le contrôle de l’immigration.
+
+Si Luxembourg décidait de quitter l’Union Européenne, quelles en seraient les conséquences pour le Luxembourg selon vous, s’il y en avait ?
+
+01: Ce serait positif pour le Luxembourg.
+02: Il n’y aurait pas de changement important.
+03: Ce serait négatif pour le Luxembourg.
+98: Ne sais pas
+
+*QUESTION 392
+Si Luxembourg décidait de quitter l’Union Européenne, quelles en seraient les conséquences pour le Luxembourg selon vous, s’il y en avait ?
+
+01: Ce serait positif pour le Luxembourg.
+02: Il n’y aurait pas de changement important.
+03: Ce serait négatif pour le Luxembourg.
+98: Ne sais pas
+
+*QUESTION 400
+D1 Etes-vous, vous-même ou un membre de votre foyer, membre d'un syndicat?
+
+1: Oui, vous êtes membre d'un syndicat
+2: Oui, quelqu'un d'autre dans votre foyer est membre d'un syndicat
+3: Oui, vous et quelqu'un d'autre dans votre foyer êtes membres d'un syndicat
+4: Non, personne dans mon foyer n’est membre d’un syndicat
+
+*QUESTION 460
+D5 Quelle situation matrimoniale correspond-elle le mieux à la votre ?
+
+*HEADING
+*FONT 2MARIÉ(E) OU REMARIÉ(E)*FONT 0
+01: Vivant sans enfant
+02: Vivant avec les enfants de ce mariage
+03: Vivant avec les enfants que l’un ou l’autre des conjoints a eu d’une union précédente
+04: Vivant avec les enfants de ce mariage et ceux que l’un ou l’autre des conjoints a eu d’une union précédente
+*HEADING
+*FONT 2CELIBATAIRE VIVANT EN COUPLE*FONT 0
+05: Vivant sans enfant
+06: Vivant avec les enfants de cette union
+07: Vivant avec les enfants que l’un ou l’autre des partenaires a eu d’une union précédente
+08: Vivant avec les enfants de cette union et ceux que l’un ou l’autre des partenaires a eu d’une union précédente
+*HEADING
+*FONT 2CELIBATAIRE*FONT 0
+09: Vivant sans enfant
+10: Vivant avec des enfant 
+*HEADING
+*FONT 2DIVORCÉ(E) OU SÉPARÉ(E)*FONT 0
+11: Vivant sans enfant 
+12: Vivant avec des enfants 
+*HEADING
+*FONT 2VEUF/VEUVE*FONT 0
+13: Vivant sans enfants
+14: Vivant avec des enfants
+
+*QUESTION 470
+D6 Quelle est votre situation actuellement par rapport au travail ? Êtes-vous:
+
+1: À votre compte, travailleur indépendant
+2: Salarié
+3: Etudiant
+4: Au foyer
+5: Retraité
+6: Sans emploi
+7: Autre
+
+*QUESTION 480
+D6a Dans quel secteur travaillez-vous, ou avez-vous travaillé (dernier emploi) ? 
+
+1: agriculture
+2: industrie publique
+3: production privée
+4: service public
+5: service privé
+6: autre
+
+*QUESTION 490
+D7 Si l’on vous demandait de choisir l’une de ces cinq classes sociales, à laquelle déclareriez-vous appartenir : la classe ouvrière, la classe moyenne inférieure, la classe moyenne, la classe moyenne supérieure ou la classe supérieure? 
+
+1: classe ouvrière
+2: classe moyenne inférieure
+3: classe moyenne
+4: classe moyenne supérieure
+5: classe supérieure
+6: autre
+
+*QUESTION 510
+D9 Vous considérez-vous comme…?
+
+01: Catholique
+02: Orthodoxe
+03: Protestant
+04: Autre chrétien
+05: Juif
+06: Musulman
+07: Sikh
+08: Bouddhiste
+09: Hindouiste
+10: Sans religion / Athée
+11: Non croyant, agnostique
+12: Autre
+
+*QUESTION 520
+D10 A part les mariages ou les funérailles, tous les combien assistez-vous à une cérémonie ou un service religieux ?
+
+1: Plus d'une fois par semaine
+2: Une fois par semaine
+3: Environ une fois par mois
+4: Environ tous les 2 ou 3 mois
+5: Seulement lors de fêtes, jours religieux spéciaux
+6: Environ une fois par an
+7: Moins souvent
+8: Jamais
+
+*QUESTION 53001
+1: 
+
+*? matrix_title
+*QUESTION 530
+
+01:1=famille pauvre
+02:2
+03:3
+04:4
+05:5
+06:6
+07:7=famille riche
+98:Je ne sais pas
+
+*QUESTION 550
+Afin de permettre à notre client d’évaluer la qualité des réponses et l’influence potentielle des supports utilisés, nous aimerions savoir quel type d’appareil vous avez utilisé pour répondre à ce sondage.
+
+4: PC
+5: Tablette
+6: Smartphone
+7: Autre
+
+*QUESTION 2000
+*FONT 0
+Nous vous remercions pour votre participation à l'enquête et vous souhaitons une agréable journée.
+
+Pour ce questionnaire vous avez gagné la somme de *FONT 4 *? GAIN*FONT 0 euros. Cette somme sera versée sur votre compte TNS ILRES MyPanel.
+
+*FONT 4N'oubliez pas de cliquer sur "Ok" pour valider votre gain.*FONT 0
+
+*QUESTION 2001
+1: Flag questionnaire completé
+
+
+*QUESTION 2002
+*FONT 0
+Nous vous remercions pour votre participation à l'enquête et vous souhaitons une agréable journée.
+
+Pour ce questionnaire vous avez gagné la somme de *FONT 4*? GAIN*FONT 0 euros. Cette somme sera versée sur votre compte TNS ILRES MyPanel.
+
+*FONT 4N'oubliez pas de cliquer sur "Ok" pour valider votre gain.*FONT 0
+
+*QUESTION 2003
+*FONT 0
+Malheureusement, vous ne faites pas partie de l'échantillon que nous devons interroger.
+
+Nous vous remercions pour votre collaboration.
+
+Merci et au revoir.
+

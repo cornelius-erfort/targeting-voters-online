@@ -1,0 +1,31 @@
+\documentclass[]{article}
+\setlength{\pdfpagewidth}{8.5in} \setlength{\pdfpageheight}{11in}
+\begin{document}
+\begin{tabular}{lcc} \hline
+ & (1) & (2) \\
+ & reg1 & reg2 \\
+VARIABLES & target\_spend & target\_spend \\ \hline
+ &  &  \\
+vote\_diff & 2.357*** & 0.335 \\
+ & (0.626) & (0.320) \\
+niche = 1 &  & 2.790 \\
+ &  & (7.975) \\
+0b.niche\#co.vote\_diff &  & 0 \\
+ &  & (0) \\
+1.niche\#c.vote\_diff &  & 2.434*** \\
+ &  & (0.720) \\
+population & 0.549*** & 0.555*** \\
+ & (0.126) & (0.125) \\
+party\_size & 0.170 &  \\
+ & (0.366) &  \\
+c.vote\_diff\#c.party\_size & -0.125*** &  \\
+ & (0.0368) &  \\
+Constant & 51.42*** & 51.15*** \\
+ & (10.02) & (10.58) \\
+ &  &  \\
+Observations & 5,018 & 5,018 \\
+ R-squared & 0.063 & 0.063 \\ \hline
+\multicolumn{3}{c}{ Robust standard errors in parentheses} \\
+\multicolumn{3}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\end{tabular}
+\end{document}
